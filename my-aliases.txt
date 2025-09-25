@@ -1,0 +1,32 @@
+    alias rfs="source ~/.zshrc"
+    alias ll="eza -lah --smart-group"
+    alias lsa="eza -a"
+    alias mk="mkdir"
+    alias mkp="mkdir -p"
+    alias tch="touch"
+    alias cat="/usr/bin/batcat"
+    alias rbt="reboot"
+    alias rbtn="systemctl reboot -i"
+    alias sdn="shutdown now"
+
+    #GIT ALIASES
+    alias gs="git status"
+    alias gi="git init"
+    alias gcl="git clone"
+    alias gm="git merge"
+                                         
+    alias gc="git commit -m"
+    alias gaa="git add ."
+    alias ga="git add"
+    alias glog="git log"
+    alias gps="git push origin"
+    alias gsw="git switch"
+    alias gb="git branch"
+    alias gch="git switch -c" #tworzy i przelacza na nowa galaz
+    alias grb="git rebase"
+    alias gf="git fetch origin"
+
+    # PROGRAMS
+    alias cal="ncal"
+    alias calw="ncal -w"
+    alias caly="ncal -y"
