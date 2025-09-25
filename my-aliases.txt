@@ -8,7 +8,9 @@
     alias rbt="reboot"
     alias rbtn="systemctl reboot -i"
     alias sdn="shutdown now"
-
+    alias updt="sudo apt update -y"
+    alias updtg="sudo apt update -y && sudo apt upgrade -y"
+    
     #GIT ALIASES
     alias gs="git status"
     alias gi="git init"
