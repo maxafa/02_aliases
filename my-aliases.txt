@@ -1,10 +1,10 @@
     alias rfs="source ~/.zshrc"
-    alias ll="eza -lah --smart-group"
-    alias lsa="eza -a"
+    #alias ll="eza -lah --smart-group"
+    #alias lsa="eza -a"
     alias mk="mkdir"
     alias mkp="mkdir -p"
     alias tch="touch"
-    alias cat="/usr/bin/batcat"
+    #alias cat="/usr/bin/batcat"
     alias rbt="reboot"
     alias rbtn="systemctl reboot -i"
     alias sdn="shutdown now"
@@ -27,6 +27,6 @@
     alias gf="git fetch origin"
 
     # PROGRAMS
-    alias cal="ncal"
-    alias calw="ncal -w"
-    alias caly="ncal -y"
+    #alias cal="ncal"
+    #alias calw="ncal -w"
+    #alias caly="ncal -y"
