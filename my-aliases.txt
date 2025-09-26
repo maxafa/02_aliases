@@ -15,8 +15,7 @@
     alias gs="git status"
     alias gi="git init"
     alias gcl="git clone"
-    alias gm="git merge"
-                                         
+    alias gm="git merge"             
     alias gc="git commit -m"
     alias gaa="git add ."
     alias ga="git add"
@@ -27,6 +26,8 @@
     alias gch="git switch -c" #tworzy i przelacza na nowa galaz
     alias grb="git rebase"
     alias gf="git fetch origin"
+    alias lg="log --oneline --graph --decorate --all"
+    alias last="log -1 HEAD"
 
     # PROGRAMS
     #alias cal="ncal"
